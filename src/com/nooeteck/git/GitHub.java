@@ -10,4 +10,7 @@ public class GitHub {
 		System.out.println(a * b);
 		
 	}
+	
+	public static void main(String [] args) {
+		system.out.println("Edit is done!")
 }
