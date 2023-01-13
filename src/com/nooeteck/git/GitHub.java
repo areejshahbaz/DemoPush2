@@ -11,6 +11,6 @@ public class GitHub {
 		
 	}
 	
-	public static void main(String [] args) {
-		system.out.println("Edit is done!")
+	public static void main1(String [] args) {
+		System.out.println("Edit is done!");
 }
